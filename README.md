@@ -12,4 +12,4 @@ $filter= new Filter($image);
 $effects = $filter->aqua();
 header("Content-type: image/png");
 imagepng($image);
-imagedestroy($image);```
+imagedestroy($image);
