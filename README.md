@@ -2,7 +2,7 @@
 Preview:
 ![alt text][logo]
 
-[logo]: https://github.com/twelvee/instagram_effects/123.png "Preview"
+[logo]: https://github.com/twelvee/instagram_effects/blob/master/123.png "Preview"
 
 Simple to use, just use /examples/*.php files like photo with your photo links.
 
